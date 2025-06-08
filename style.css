@@ -1,0 +1,75 @@
+body{
+    background-color: #f4f7fc;
+    font-family: Arial, sans-serif;
+    
+}
+
+section {
+  background-color: whitesmoke;
+  padding: 20px 10px 20px 10x;
+  border-radius: 8px;
+  max-width: 500px;
+  max-height: 400px;
+}
+
+h2{
+    font-size: 18px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin: 0 0 10px 0;
+}
+
+h3{
+    font-size: 16px;
+    color: #34495e;
+    margin: 0 0 5px 0;
+}
+p{
+    text-align: justify;
+    font-size: 15px;
+    color: #555;
+    margin: 2px 0;
+}
+
+i{
+    font-size: 15px;
+    color: black;
+}
+
+li{
+    float: right;
+    width: 25px;
+}
+
+i:hover{
+    color: red;
+}
+
+a{  
+    color: red;
+}
+a:any-link{
+    color: black;
+}
+
+a:-webkit-any-link{
+    color: black;
+}
+
+a:-moz-any-link{
+    color: black;
+}
+
+/*CSS IDs and classes*/
+
+#socialnetwork{
+    margin-top: 0px;
+    list-style: none;
+}
+
+
+.logo{
+    float:right;
+    
+
+}
